@@ -113,6 +113,10 @@
   justify-content: space-around;
 }
 
+.homeButtons_extraPoint,
+.awayButtons_extraPoint,
+.homeButtons_safety,
+.awayButtons_safety,
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
@@ -120,3 +124,41 @@
   margin: 1rem;
   border-radius: 4px;
 }
+
+
+.down_button{
+  font-size: 1.2rem;
+  margin: .5%;
+  height: 50px;
+}
+
+.ytg_button{
+  margin-left: 2%;
+  font-size: 1.4rem;
+  height: 50px;
+}
+
+.bottomButtons{
+  display:flex;
+}
+
+.ballMarkerTop, 
+.ballMarkerBottom{
+  display: flex;
+  
+}
+
+.yLine_button{
+  font-size: 2rem;
+  margin: 1.2%;
+  margin-left: %;
+}
+
+.quarter_button{
+  height: 50px;
+  margin-left: 9.6%;
+}
+.ballMarker{
+  margin-left: 7%;
+}
+
